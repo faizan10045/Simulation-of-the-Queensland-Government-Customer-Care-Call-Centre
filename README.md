@@ -8,7 +8,13 @@
 
 
 Monte Carlo Simualtion Demo:
+
 ![](MonteCarlodemo.gif)
+
+Discrete Event Simualtion Using Arena Demo:
+
+![](Arena.gif)
+
 
 Software Requirements:
 1) Arena 
