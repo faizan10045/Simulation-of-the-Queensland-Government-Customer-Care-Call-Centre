@@ -8,7 +8,7 @@
 
 
 Monte Carlo Simualtion Demo:
-
+![](MonteCarlodemo.gif)
 
 Software Requirements:
 1) Arena 
