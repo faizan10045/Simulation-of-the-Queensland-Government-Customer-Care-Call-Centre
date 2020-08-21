@@ -11,6 +11,17 @@ Software Requirements:
 1) Arena 
 2) Microsoft Excel
 
-
 After Installation:
-1) Open the 
+1) For Monte Carlo Simualtion using MS Excel
+  a) Open "Basic Model.xlsx" file
+  b) Follow the running mechanism of this video- https://www.youtube.com/watch?v=buGqIQ8zkhE
+  
+  c) Open "Alternate Model.xlsx" file
+  d) Follow the running mechanism of this video- https://www.youtube.com/watch?v=buGqIQ8zkhE
+  
+2) For Discrete Event Simualtion using Arena
+  a) Open "Final Basic Model.doe" file
+  b) Follow the running mechanism of this video- https://www.youtube.com/watch?v=buGqIQ8zkhE
+  
+  c) Open "Final Alternate Model.doe" file
+  d) Follow the running mechanism of this video- https://www.youtube.com/watch?v=buGqIQ8zkhE
