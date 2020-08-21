@@ -7,6 +7,9 @@
 ● To perform Sensitivity Analysis using Monte Carlo Simulation in Microsoft Excel and determine the average waiting time and serve time of each customer.
 
 
+Monte Carlo Simualtion Demo:
+
+
 Software Requirements:
 1) Arena 
 2) Microsoft Excel
